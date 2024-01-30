@@ -8,7 +8,7 @@ do {
   )
 
   switch (opcao) {
-    case "1":
+
         case "1":
             const imovel = {}
       
@@ -41,7 +41,6 @@ do {
             )
           }
       break
-    case "3":
         case "3":
       alert("Saindo...")
       break
